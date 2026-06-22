@@ -1,0 +1,1 @@
+# yamada-sta.github.io
