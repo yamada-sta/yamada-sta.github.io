@@ -15,3 +15,18 @@ p {
   color: #666;
   font-size: 18px;
 }
+
+.btn {
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.btn:hover {
+  background-color: #357ab8;
+}
